@@ -41,7 +41,7 @@ function Header() {
     <span className='text-5xl font-medium bg-gradient-to-l from-gray-900 via-purple-900 to-violet-600 text-transparent bg-clip-text shadow-sm'>ICNS Domain</span>  </h1>
     <br/>
     <br/>
-    <p className='text-2xl text-slate-800'>Enter name.eth to get details</p>
+    <p className='text-2xl text-slate-800'>Enter name.icp to get details</p>
   </div>
   </>
   )
