@@ -1,3 +1,7 @@
+![image](https://github.com/ayushsingh82/ICPScan/assets/121667116/64078c17-21fe-4c37-8bbb-b3c3d03bcb66)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
